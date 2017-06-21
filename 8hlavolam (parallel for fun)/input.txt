@@ -1,0 +1,24 @@
+(2 3 0)(10 6 1)(9 11 7)
+(0 3 7)(10 6 2)(1 11 9)
+
+(0 1 2)(3 4 5)(6 7 8)
+(1 4 0)(3 5 2)(6 7 8)
+R D R U
+(0 1 2)(3 4 5)(6 7 8)
+(3 2 1)(6 4 8)(7 5 0)
+R D R U L L D D R U R U L D R D
+(0 1 2)(3 4 5)(6 7 8)
+(0 1 2)(3 4 5)(6 7 8)
+Start a ciel sa rovnaju, netreba hladat cestu
+(0 1 2)(3 4 5)(6 7 8)
+(3 1 2)(7 5 8)(4 6 0)
+D R D L U R R D
+(0 1 2)(3 4 5)(6 7 8)
+(8 0 6)(5 4 7)(2 3 1)
+D D R R U U L D D R U U L D L D R R U L L U R R D L L D R U U alebo D D R U U R D L L D R R U L L U R R D L D L U U R D D L U U R alebo D R U R D D L L U R D L U U R R D L D L U U R R D D L L U U R
+(0 1 2)(3 4 5)
+(3 4 5)(0 1 2)
+D R R U L D L U R R D L U L D R R U L D L alebo R R D L U L D R R U L D L U R R D L U L D alebo D R U R D L L U R D R U L L D R U R D L L
+(0, 1, 2, 3, 4)(5, 6, 7, 8, 9)
+(4, 3, 2, 6, 1)(9, 8, 7, 5, 0)
+D R R R U L L D L U R D R R R U L L L D R R R U L L D L L U R R D R R U L L D L L U R R R D L L L U R R R R D alebo D R R R R U L L L D R R R U L L D L L U R R D R R U L L D L L U R R R D L L L U R R R D R U L D L L U R R R D
